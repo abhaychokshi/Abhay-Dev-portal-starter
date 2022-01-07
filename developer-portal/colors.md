@@ -53,7 +53,7 @@ Or change any other colors you want.
 
 ```ts
     footer: {
-      main: '#424242',
+      main: '#252525',
       // main: ({ colors }) => colors.primary.main,
       contrastText: 'white'
     },
