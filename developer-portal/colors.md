@@ -40,7 +40,7 @@ Or not...
 
 ```ts
     text: {
-      primary: '#424242',
+      primary: '#242424',
       // secondary: '#4e566d',
     },
 ```
